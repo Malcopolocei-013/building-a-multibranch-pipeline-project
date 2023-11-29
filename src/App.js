@@ -1,7 +1,7 @@
 import logo from './mushroom2.webp';
 import './App.css';
 
-// function App() {
+function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -15,7 +15,7 @@ import './App.css';
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go Steam
+          Go Nintendo
         </a>
       </header>
     </div>
