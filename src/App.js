@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './mushroom2.webp';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Super Mario RPG Is On Sale.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.nintendo.com.hk/switch/a8lua/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Go Steam
         </a>
       </header>
     </div>
