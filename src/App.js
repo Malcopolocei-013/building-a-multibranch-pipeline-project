@@ -1,7 +1,7 @@
 import logo from './mushroom2.webp';
 import './App.css';
 
-function App() {
+// function App() {
   return (
     <div className="App">
       <header className="App-header">
