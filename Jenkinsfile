@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "HAGIMI!!!!HAGIMI!!!!HAGIMI!!!!HAGIMI!!!!HAGIMI!!!!HAGIMI!!!! "
+                echo 'HAGIMI,HAGIMI,HAGIMI,HAGIMI!'
                 sh 'npm install'
             }
         }
