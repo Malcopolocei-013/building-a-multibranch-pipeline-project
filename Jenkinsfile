@@ -5,8 +5,7 @@ pipeline {
     stage('Build') {
         steps {
             echo 'HAGIMI,HAGIMI,HAGIMI,HAGIMI!'
-            echo 'This is a test.'
-            sh 'npm install'
+            sh npm install
         }
     }
     stage('Deliver for development') {
@@ -15,8 +14,7 @@ pipeline {
         }
         steps {
             echo "into development"
-            sh 'npm install'
         }
     }
-}
+  }
 }
